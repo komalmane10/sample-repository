@@ -1,1 +1,2 @@
-# sample-repository
+## sample-repository
+This is a sample reository 
